@@ -34,6 +34,7 @@
 <br />
 <br />
 
+[<img src="https://novatorem-lfseibel.vercel.app/api/spotify-playing" width="350"/>
 [![Spotify](https://lfseibel.vercel.app/api/spotify)](https://open.spotify.com/user/22giw3giddf4nvgztycvgoiba)
 
 ---
