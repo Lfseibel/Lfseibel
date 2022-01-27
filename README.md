@@ -34,6 +34,12 @@
 <br />
 <br />
 
+<details>
+  <summary> Github Stats </summary>
+   
+  <img align="left" alt="Lfseibel github stats" src="https://github-readme-stats.lfseibel.vercel.app/api?username=Lfseibel&show_icons=true&hide_border=true" />
+</details>
+
 ---
 
 [twitter]: https://twitter.com/SeibelCarrilho
