@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Make more personal projects
 - ⚡ Fun fact: I love to play piano
 
-### Connect with me:
+### My links:
 
 [<img align="left" alt="SeibelCarrilho | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Luiz Fernando Seibel Carrilho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -33,9 +33,8 @@
 
 <br />
 <br />
-### Email:
-#### lfseibel10@gmail.com
 
+<p>Contact email: lfseibel10@gmail.com</p>
 
 
 </a>
