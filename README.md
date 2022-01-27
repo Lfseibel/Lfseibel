@@ -12,7 +12,7 @@
 [<img align="left" alt="SeibelCarrilho | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Luiz Fernando Seibel Carrilho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Luiz Fernando Seibel Carrilho | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[Spotify](https://lfseibel.vercel.app/api/spotify)](https://open.spotify.com/user/22giw3giddf4nvgztycvgoiba)
+[<img align="left" alt="SeibelCarrilho | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 <br />
 
 ### Languages and Tools:
@@ -38,8 +38,8 @@
 
 
 </a>
----
 
+[spotify]: https://open.spotify.com/user/22giw3giddf4nvgztycvgoiba
 [twitter]: https://twitter.com/SeibelCarrilho
 [instagram]: https://www.instagram.com/luizfernandoseibel/
 [linkedin]: https://www.linkedin.com/in/luiz-fernando-seibel-carrilho-626669211/
