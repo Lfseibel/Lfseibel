@@ -1,4 +1,4 @@
-### Hi there, I'm Luiz Fernando Seibel Carrilho - aka Lfseibel 👋 
+### Hi there, I'm Luiz Fernando Seibel Carrilho 👋 
 
 ## I'm a student and hard working person
 
