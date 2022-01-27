@@ -34,6 +34,7 @@
 <br />
 <br />
 
+[![Spotify](https://lfseibel.vercel.app/api/spotify)](https://open.spotify.com/user/22giw3giddf4nvgztycvgoiba)
 
 ---
 
